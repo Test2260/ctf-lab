@@ -1,4 +1,4 @@
-Hackazon
+FinalPwn
 ========
 
 Hackazon is a free, vulnerable test site that is an online storefront built with the same
