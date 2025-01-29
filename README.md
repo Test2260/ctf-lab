@@ -16,8 +16,3 @@ Technical Details
 * CSS – http://getbootstrap.com/
 * DB – MySQL 5.5 with InnoDB Support
 * Web Server – Apache 2.0
-
-Additional Information
-======================
-* [Wiki](https://github.com/rapid7/hackazon/wiki)
-* CyberSecology Blog: [Hackazon Test Site Review](http://cybersecology.com/hackazon-review/)
